@@ -1,4 +1,4 @@
-# Napkin Math
+#Napkin Math
 
 The goal of this project is to collect software, numbers, and techniques to
 quickly estimate the expected performance of systems from first-principles. For
